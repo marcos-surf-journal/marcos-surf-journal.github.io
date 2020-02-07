@@ -5,7 +5,7 @@ date:   2020-02-06 16:02:55 +0000
 categories:
 ---
 
-![](/assets/267.jpg)
+![After surf beer](/assets/267.jpg)
 
 After 2 months of travelling in my van I found the last bit of motivation to setup a site to document my surf trip.
 
