@@ -21,7 +21,7 @@
 title: Marco's Surf Journal
 email: marco.ps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Documenting my trip in my van for future reference.
+  A journal of my trip to the Canary Islands and back again.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: pocky1000

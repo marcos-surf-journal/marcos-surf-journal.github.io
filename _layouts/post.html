@@ -19,6 +19,10 @@ layout: default
     {{ content }}
   </div>
 
+  <footer class="post-footer">
+      {%- include mini-bio.html -%}
+  </footer>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
