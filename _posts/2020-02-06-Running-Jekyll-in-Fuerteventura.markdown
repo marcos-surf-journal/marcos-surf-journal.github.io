@@ -4,7 +4,10 @@ title:  "Running Jekyll in Fuerteventura"
 date:   2020-02-06 16:02:55 +0000
 categories:
 ---
-After 2 months of travelling in my van I found the last bit of motivation to setup a site to document my little surf trip.
+
+![](/assets/267.jpg)
+
+After 2 months of travelling in my van I found the last bit of motivation to setup a site to document my surf trip.
 
 Thanks to Jakob of [Ruby on Wheels][ruby-on-wheels] for the tip on [Jekyll][jekyll] and for the inspiration to pull up the command line!
 
@@ -13,7 +16,6 @@ Jakob is travelling around Europe in an awesome, converted military Mercedes-Ben
 On this site, I hope to capture a little bit of my surf trip and the waves I find a long the way, hopefully also for future trips.
 
 The experience of living in my van next to the surf spots of Fuerteventura and Lanzarote has been incredible so far, and hopefully I can transmit a little bit of that feeling through here.     
-
 
 [jekyll]:https://jekyllrb.com/
 [ruby-on-wheels]: https://ruby-on-wheels.github.io
