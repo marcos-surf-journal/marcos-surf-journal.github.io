@@ -34,11 +34,11 @@ plugins:
   - jekyll-feed
   - jemoji
 
-author_avatar: /assets/267.jpg
+author_avatar: /assets/267.JPG
 favicon: /assets/favicon.png
 
-disqus:
-  shortname: "kek"
+# disqus:
+#   shortname: "kek"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
