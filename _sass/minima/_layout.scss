@@ -27,13 +27,13 @@
     width: 100%;
     display: block;
     overflow: auto;
-    font-size: 13px;
-    font-weight: bold;
+    @include relative-font-size(1);
+    // font-weight: bold;
     line-height: 1.4;
-    border-top: 1px solid #eee;
+    border-top: 1px solid $grey-color-light;
     padding: 30px 0;
     margin: 40px 0;
-    // color: #444;
+    margin-bottom: 10px;
 }
 
 .author {
@@ -55,12 +55,11 @@
     }
 
     span {
-        // color: #aaa;
-        font-weight: 500;
+        color: $grey-color;
         display: block;
 
         &.name {
-            // color: #1E2025;
+            color: $text-color;
         }
     }
 }
@@ -276,7 +275,7 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.4);
 }
 
 
@@ -289,7 +288,8 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  // @include relative-font-size(2.625);
+  font-size: 2rem;
   letter-spacing: -1px;
   line-height: 1;
 
@@ -300,6 +300,10 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+
+  a {
+    font-weight: bold;
+  }
 
   h2 {
     @include relative-font-size(2);
