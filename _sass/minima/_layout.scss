@@ -23,6 +23,31 @@
   }
 }
 
+#trip-status {
+  width: auto;
+  display: block;
+  margin-bottom: $spacing-unit;
+  height: 82px;
+}
+
+.status-item {
+  float: left;
+  width: 26%;
+  border: 1px solid $grey-color-light;
+  margin-right: $spacing-unit/2;
+  padding: $spacing-unit/2;
+}
+
+.status-title {
+  @include relative-font-size(0.9);
+  color: $grey-color;
+}
+
+.status-value {
+  color: $text-color;
+  font-weight: 400;
+}
+
 .mini-bio {
     width: 100%;
     display: block;
