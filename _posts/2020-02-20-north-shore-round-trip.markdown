@@ -5,7 +5,7 @@ date:   2020-02-20 12:02:55 +0000
 categories:
 ---
 
-After the run of waves in Majanicho, and the swell started to fade, I decided to head back to [Cotillo](https://surfermap.com/item/guide-surf-spot-el-cotillo/). I had totally misjudged the size of the swell.
+After the run of waves in Majanicho, and the swell started to fade, I decided to head back to [Cotillo](https://surfermap.com/item/guide-surf-spot-el-cotillo/), but I had totally misjudged the size of the swell.
 
 When I got there it was big and closing out.
 
