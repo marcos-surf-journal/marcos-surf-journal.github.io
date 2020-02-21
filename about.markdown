@@ -58,4 +58,4 @@ I carry 2 x 20L water tanks in the front luggage rack, I use them for showering 
 
 ![](/assets/van/shower.gif)
 
-These are the modifications so far! I have been very happy with all of them so far, and I look forward to doing much more. For any questions don't hesitate to ask in the comments.
+These are the modifications so far! I have been very happy with all of them so far, and I look forward to doing much more. If you have any questions or remarks you are welcome to leave a comment :point_down:
