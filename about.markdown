@@ -8,7 +8,7 @@ permalink: /about/
 
 My van is a VW T3 Westfalia Joker from 1986. It blows my mind that it is one year older than I am and still being such a beautiful and useful car. With the engine in the back, the car is very spacious and hanging out in it on a sunny day, light shining in through all the windows, is just wonderful.
 
-![](/assets/van/IMG_4396_resized.JPG)
+![](/assets/van/IMG_4396_resized.jpg)
 
 The motor is the 2.1DJ gasoline engine with 110 HP and a 5-speed gearbox. It's the most powerful engine VW made for T3s. Even so it's not the fastest car around, but it follows traffic just fine. I like to cruise at 80 km/h and enjoy the landscape, even though it easily goes a 100+. On the bright side, I rarely worry about getting a speeding ticket.
 
@@ -22,7 +22,7 @@ As a surf van it was essential for me to improve it's off-road capabilities by u
 
 "Is it a syncro?" People ask me. No.. I wish! :stuck_out_tongue_closed_eyes: One day maybe, but the the all-terrain wheels and extra clearance under the car sure has come in handy so far.
 
-![](/assets/van/IMG_4318_resized.JPG)
+![](/assets/van/IMG_4318_resized.jpg)
 
 I have modernized the interior just enough for it to accommodate a technology-addicted travelling programmer, with an emphasis of being functional for surfing.
 
