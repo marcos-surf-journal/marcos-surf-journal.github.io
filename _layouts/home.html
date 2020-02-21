@@ -9,38 +9,44 @@ layout: default
 
   {{ content }}
 
-  <div id="trip-status">
-    <div class="status-item">
-      <div class="status-title">
-        Time on the road
-      </div>
-      <div class="status-value">
-        <script type="text/javascript">
-          var current = new Date();
-          var start = new Date(2019, 11, 5);
+  <div id="trip-status" class="container">
+    <div class="row">
+      <div class="col-4">
+        <div class="status-item">
+          <div class="status-title">
+            Time on the road
+          </div>
+          <div class="status-value">
+            <script type="text/javascript">
+              var current = new Date();
+              var start = new Date(2019, 11, 5);
 
-          document.write(Math.ceil((current - start + 1) / 86400000));
-        </script> days
+              document.write(Math.ceil((current - start + 1) / 86400000));
+            </script> days
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="status-item">
+          <div class="status-title">
+            Last location
+          </div>
+          <div class="status-value">
+            Fuerteventura
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="status-item">
+          <div class="status-title">
+            Car status
+          </div>
+          <div class="status-value">
+            Engine warning :warning:
+          </div>
+        </div>
       </div>
     </div>
-    <div class="status-item">
-      <div class="status-title">
-        Last location
-      </div>
-      <div class="status-value">
-        Fuerteventura
-      </div>
-    </div>
-    <div class="status-item">
-      <div class="status-title">
-        Car status
-      </div>
-      <div class="status-value">
-        Engine warning :warning:
-      </div>
-    </div>
-
-
   </div>
 
   {%- if site.posts.size > 0 -%}

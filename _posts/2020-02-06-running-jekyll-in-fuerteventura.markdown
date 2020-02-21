@@ -2,6 +2,7 @@
 layout: post
 title:  "Running Jekyll in Fuerteventura"
 date:   2020-02-06 16:02:55 +0000
+comments: true
 categories:
 ---
 

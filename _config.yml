@@ -23,7 +23,7 @@ email: marco.ps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A journal of my trip to the Canary Islands and back again.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marcos-surf-journal.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: pocky1000
 #github_username:  marco-psf
 show_excerpts: false
@@ -37,8 +37,8 @@ plugins:
 author_avatar: /assets/267.JPG
 favicon: /assets/favicon.png
 
-# disqus:
-#   shortname: "kek"
+disqus:
+   shortname: marcos-surf-journal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
