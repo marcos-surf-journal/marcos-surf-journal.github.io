@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](/assets/van/IMG_4597_resized.JPG)
 
-My van is a VW T3 Westfalia Joker from 1986. It blows my mind that it is one year older than I am and still being such a beautiful and useful car. With the engine in the back, the car is very spacious and sitting or taking a nap inside it on a sunny day, light shining in through all the windows, is just wonderful.
+My van is a VW T3 Westfalia Joker from 1986. It blows my mind that it is one year older than I am and still being such a beautiful and useful car. With the engine in the back, the car is very spacious and hanging out in it on a sunny day, light shining in through all the windows, is just wonderful.
 
 ![](/assets/van/IMG_4396_resized.JPG)
 
