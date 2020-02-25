@@ -9,7 +9,7 @@ Today was the end of more than a week of no surfing. Yay!
 
 During my last surf session at Punta Gorda I sprained a muscle in my ribs. It did not feel serious, but it would hurt when twisting or stretching my upper body, enough to not be able to surf. Luckily it has been improving every day since, and today it was healed enough to start surfing again.
 
-In addition, this past weekend, the Canary Islands were hit by a historic [Calima](https://www.weatheronline.co.uk/reports/wind/The-Calima.htm), apparently the worst in 40 years. At least I did not miss out too much on good waves while recovering, but were instead "entertained" by witnessing this crazy weather phenomenon.
+In addition, this past weekend, the Canary Islands were hit by a historic [Calima](https://www.weatheronline.co.uk/reports/wind/The-Calima.htm), apparently the worst in 40 years. At least I did not miss out too much on good waves while recovering, but was instead "entertained" by witnessing this crazy weather phenomenon.
 
 ![](/assets/20200225/calima.gif)
 
