@@ -37,7 +37,7 @@ Everything was colored in shades of dust.
 
 ![](/assets/20200225/IMG_4665_resized.jpg)
 
-My camera after 1 minute outside the van.
+My camera after a few minute outside the van.
 
 ![](/assets/20200225/IMG_5563_resized.JPG)
 
