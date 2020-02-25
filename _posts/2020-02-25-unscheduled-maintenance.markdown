@@ -45,7 +45,7 @@ Some people checking out the waves.
 
 ![](/assets/20200225/IMG_5566_resized.JPG)
 
-The surf was actually pretty these days, and some people went out regardless of the dust.
+The surf actually looked pretty fun these days, and some people went out regardless of the dust.
 
 ![](/assets/20200225/IMG_5634_resized.JPG)
 
