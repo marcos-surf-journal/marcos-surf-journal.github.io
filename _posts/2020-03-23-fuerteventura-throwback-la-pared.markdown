@@ -7,7 +7,7 @@ categories:
 
 My time on the Canary Islands is coming to an end. 3 months have passed and I can already feel how much I will miss the easy "surf, eat, sleep, repeat" lifestyle here. In a week I will hand over my van to the mechanics of [Karvans](http://www.karvans.com) in Seville to get my engine fixed. Meanwhile I will go home to Copenhagen and anxiously wait for the moment where I can come back and pick it up.
 
-Until then I want to look back the earlier parts of the trip.
+Until then I want to look back the earlier parts of the trip. First up in the series is the first few weeks I spent in La Pared.
 
 **A great start to 2020 in La Pared**
 
